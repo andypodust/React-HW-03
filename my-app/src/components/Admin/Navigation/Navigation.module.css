@@ -1,0 +1,23 @@
+.Navigation {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    width: 300px;
+    justify-content: space-between
+}
+.NavItem {
+    background-color: lightslategray;
+    border-radius: 10px;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.Link {
+    text-decoration: none;
+    color: #fff
+}
+.Link:hover {
+    color: black
+}

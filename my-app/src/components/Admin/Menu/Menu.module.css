@@ -1,0 +1,23 @@
+.menuList {
+    margin: 0 auto;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.menuItem {
+    width: 250px; 
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+.img {
+    display: block;
+    width: 200px;
+    height: 130px;
+    margin: 0 auto;
+  }
+  

@@ -1,0 +1,16 @@
+.block {
+    font-family: 'Roboto', sans-serif;
+    width: 600px;
+    padding: 30px;
+    border: 1px solid silver;
+    margin: 0 auto;
+    margin-bottom: 20px
+  }
+  
+  .img {
+    display: block;
+    width: 450px;
+    height: 330px;
+    margin: 0 auto;
+  }
+  
